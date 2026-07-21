@@ -4,21 +4,21 @@
 
 [![Live App](https://img.shields.io/badge/Live%20App-evotingsystempro.expo.app-4F46E5?style=for-the-badge)](https://evotingsystempro.expo.app)
 [![GitHub](https://img.shields.io/badge/GitHub-evotingsystempro-181717?style=for-the-badge&logo=github)](https://github.com/stanleyafon6/evotingsystempro)
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Tutorial%20Video-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/7V14qmdsZDk)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Tutorial%20Video-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/evotingsystempro-788f7.firebasestorage.app/o/eVoting_System_Pro%2FeVotingSystemPro-Screen-Videos%2FOPENAIBUILDWEEK.mp4?alt=media&token=c3431ee6-b1de-4b50-8486-1580bf72ff95)
 
 ---
 
 ## Project Overview
 
-**eVoting System Pro** is a digital voting platform built with **React Native (Expo)** and **Firebase**. It enables organizers to create and run secure, verifiable polls and elections from a single-voting to multi-voting with real-time results and built-in fraud prevention.
+**eVoting System Pro** is a digital voting platform built with **React Native (Expo)** and **Firebase**. It enables organizers to create and run secure, verifiable polls and elections — from single-choice leadership votes to multi-candidate committee elections — with real-time results and built-in fraud prevention.
 
 **Quick links:**
 
-| Resource      | Link                                                                            |
-| ------------- | ------------------------------------------------------------------------------- |
-| 🌐 Live App   | [evotingsystempro.expo.app](https://evotingsystempro.expo.app)                  |
-| 💻 GitHub     | [github.com/stanleyafon6/evotingsystempro](https://github.com/evotingsystempro) |
-| 🎥 Demo Video | [Watch the tutorial video](https://www.youtube.com/shorts/7V14qmdsZDk)          |
+| Resource      | Link                                                                                                                                                                                                                                                |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 Live App   | [evotingsystempro.expo.app](https://evotingsystempro.expo.app)                                                                                                                                                                                      |
+| 💻 GitHub     | [github.com/stanleyafon6/evotingsystempro](https://github.com/evotingsystempro)                                                                                                                                                                     |
+| 🎥 Demo Video | [Watch the tutorial video](https://firebasestorage.googleapis.com/v0/b/evotingsystempro-788f7.firebasestorage.app/o/eVoting_System_Pro%2FeVotingSystemPro-Screen-Videos%2FOPENAIBUILDWEEK.mp4?alt=media&token=c3431ee6-b1de-4b50-8486-1580bf72ff95) |
 
 ---
 
@@ -58,7 +58,7 @@ Instead of rejecting a file the moment its headers don't match the expected sche
 | ![Screenshot](https://firebasestorage.googleapis.com/v0/b/evotingsystempro-788f7.firebasestorage.app/o/eVoting_System_Pro%2FeVotingScreenShotsv1%2FScreenshot_20260721-145737.jpg?alt=media&token=1896bded-76e9-49e1-8519-aee31dd872d9) |                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                         |
 | Additional platform view                                                                                                                                                                                                                |                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                         |
 
-> 🎥 Prefer a walkthrough? Check out the **[tutorial video](https://www.youtube.com/shorts/7V14qmdsZDk)** above.
+> 🎥 Prefer a walkthrough? Check out the **[tutorial video](https://firebasestorage.googleapis.com/v0/b/evotingsystempro-788f7.firebasestorage.app/o/eVoting_System_Pro%2FeVotingSystemPro-Screen-Videos%2FOPENAIBUILDWEEK.mp4?alt=media&token=c3431ee6-b1de-4b50-8486-1580bf72ff95)** above.
 
 > ✏️ _Note: the captions in the "More Screenshots" section are generic placeholders — swap in the actual screen names (e.g. "Voter Management Dashboard", "Export Results", "Push Notification Alert") once you confirm which screen each image shows._
 
@@ -312,7 +312,7 @@ PORT=3000
 
 ## 📺 Demo & Resources
 
-- 🎥 **[Tutorial Video](https://www.youtube.com/shorts/7V14qmdsZDk)** — See the platform in action.
+- 🎥 **[Tutorial Video](https://firebasestorage.googleapis.com/v0/b/evotingsystempro-788f7.firebasestorage.app/o/eVoting_System_Pro%2FeVotingSystemPro-Screen-Videos%2FOPENAIBUILDWEEK.mp4?alt=media&token=c3431ee6-b1de-4b50-8486-1580bf72ff95)** — See the platform in action.
 - 💻 **[GitHub Organization](https://github.com/evotingsystempro)** — Source code and repositories.
 - 🌐 **[Live Application](https://evotingsystempro.expo.app)** — Try eVoting System Pro in your browser.
 
